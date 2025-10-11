@@ -1,0 +1,5 @@
+username = input("what's your name.:") 
+hobby = input("what is your favorite hobby.:")
+print("hello master",username)
+print(" your hobby is Nice 👏 ")
+print("---wellcome to python programming---")
