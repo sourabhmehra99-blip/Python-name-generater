@@ -3,3 +3,6 @@ hobby = input("what is your favorite hobby.:")
 print("hello master",username)
 print(" your hobby is Nice 👏 ")
 print("---wellcome to python programming---")
+
+num1 = int(input("give your number;"))
+print( f '{num1}"*1" {num1*1})
